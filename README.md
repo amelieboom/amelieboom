@@ -2,9 +2,8 @@
 
 
 <p align="center">
-  <img src="IMG_5074.png" alt="Me" style="max-width:100px;" />
+  <img src="IMG_5074.png" alt="Me" width="100px" />
 </p>
-
 Connect with me on linkedin! : www.linkedin.com/in/amelie-boom-8a730020b
 
 <!--
