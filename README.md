@@ -1,5 +1,8 @@
 ## Hello! My name is Amelie Boom and I'm a Computer Science and Economics Major at the University of Notre Dame.
 
+
+![Me](IMG_5074.png)
+
 <!--
 **amelieboom/amelieboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
